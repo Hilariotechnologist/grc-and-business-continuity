@@ -1,0 +1,11 @@
+Vulnerability ID,Finding,Required evidence,Retest evidence,Current evidence status,Reviewer,Review date
+V-001,Mobile binary contains debug metadata,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-002,Insecure direct object reference (IDOR),Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-003,Android backup enabled for application data,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-004,Directory listing enabled on a web path,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-005,Missing rate limiting on authentication requests,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-006,SQL injection in web application,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-007,Cross-site scripting (XSS),Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-008,Broken authentication or session management,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-009,Application is signed with a code signing certificate,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
+V-010,Unauthorized or excessive access to external storage,Raw scan output; screenshot; reproduction details; affected asset/build,Before/after test output; fix reference; reviewer sign-off,Not supplied — collect before submission,,
